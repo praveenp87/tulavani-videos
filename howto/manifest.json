@@ -1,0 +1,537 @@
+{
+  "version": 1,
+  "updated": "2026-11-11",
+  "clips": [
+    {
+      "id": "add-case",
+      "route": [
+        "/cases",
+        "/board"
+      ],
+      "group": {
+        "en": "Cases and hearings",
+        "ta": "வழக்குகள், விசாரணைகள்"
+      },
+      "title": {
+        "en": "Add a case with the CNR",
+        "ta": "CNR எண் மூலம் வழக்கைச் சேர்க்க"
+      },
+      "summary_steps": {
+        "en": [
+          "Tap Add case.",
+          "Type the CNR, or tap Scan QR code.",
+          "Tap Fetch and type the eCourts captcha.",
+          "Check the details and tap Save case."
+        ],
+        "ta": [
+          "\"வழக்கு சேர்\" என்பதைத் தொடுங்கள்.",
+          "CNR எண்ணைத் தட்டச்சு செய்யுங்கள், அல்லது \"QR குறியீட்டை ஸ்கேன் செய்\" என்பதைத் தொடுங்கள்.",
+          "\"பெறு\" என்பதைத் தொட்டு, eCourts கேப்ட்சாவைத் தட்டச்சு செய்யுங்கள்.",
+          "விவரங்களைச் சரிபார்த்து, \"வழக்கைச் சேமி\" என்பதைத் தொடுங்கள்."
+        ]
+      },
+      "files": {
+        "en": {
+          "mp4": "en/add-case.mp4",
+          "poster": "en/add-case.jpg",
+          "srt": "en/add-case.srt",
+          "seconds": 37,
+          "bytes": 1069082
+        },
+        "ta": {
+          "mp4": "ta/add-case.mp4",
+          "poster": "ta/add-case.jpg",
+          "srt": "ta/add-case.srt",
+          "seconds": 38,
+          "bytes": 1254221
+        }
+      }
+    },
+    {
+      "id": "board",
+      "route": [
+        "/board"
+      ],
+      "group": {
+        "en": "Cases and hearings",
+        "ta": "வழக்குகள், விசாரணைகள்"
+      },
+      "title": {
+        "en": "Get tomorrow's board ready",
+        "ta": "நாளைய போர்டைத் தயார் செய்ய"
+      },
+      "summary_steps": {
+        "en": [
+          "Open Board.",
+          "Tap tomorrow's date.",
+          "Check each court, hall and item, and any changed dates.",
+          "Tap Share to send or print the board."
+        ],
+        "ta": [
+          "\"போர்டு\" திறங்கள்.",
+          "நாளைய தேதியைத் தொடுங்கள்.",
+          "ஒவ்வொரு நீதிமன்றம், ஹால், ஐட்டம், மாறிய தேதிகளைப் பாருங்கள்.",
+          "போர்டை அனுப்ப அல்லது அச்சிட, பகிர் பொத்தானைத் தொடுங்கள்."
+        ]
+      },
+      "files": {
+        "en": {
+          "mp4": "en/board.mp4",
+          "poster": "en/board.jpg",
+          "srt": "en/board.srt",
+          "seconds": 36,
+          "bytes": 1419429
+        },
+        "ta": {
+          "mp4": "ta/board.mp4",
+          "poster": "ta/board.jpg",
+          "srt": "ta/board.srt",
+          "seconds": 35,
+          "bytes": 1351214
+        }
+      }
+    },
+    {
+      "id": "update-hearing",
+      "route": [
+        "/board",
+        "/cases"
+      ],
+      "group": {
+        "en": "Cases and hearings",
+        "ta": "வழக்குகள், விசாரணைகள்"
+      },
+      "title": {
+        "en": "Update a hearing and the next date",
+        "ta": "விசாரணையையும் அடுத்த தேதியையும் புதுப்பிக்க"
+      },
+      "summary_steps": {
+        "en": [
+          "On Board, tap the case that needs an update.",
+          "Tap Update after hearing.",
+          "Choose what happened and who asked for time.",
+          "Pick the next date and tap Save."
+        ],
+        "ta": [
+          "போர்டில், புதுப்பிக்க வேண்டிய வழக்கைத் தொடுங்கள்.",
+          "\"விசாரணைக்குப் பின் புதுப்பி\" என்பதைத் தொடுங்கள்.",
+          "என்ன நடந்தது, யார் வாய்தா கேட்டார்கள் என்பதைத் தேர்ந்தெடுங்கள்.",
+          "அடுத்த தேதியைத் தேர்ந்தெடுத்து \"சேமி\" என்பதைத் தொடுங்கள்."
+        ]
+      },
+      "files": {
+        "en": {
+          "mp4": "en/update-hearing.mp4",
+          "poster": "en/update-hearing.jpg",
+          "srt": "en/update-hearing.srt",
+          "seconds": 33,
+          "bytes": 1075633
+        },
+        "ta": {
+          "mp4": "ta/update-hearing.mp4",
+          "poster": "ta/update-hearing.jpg",
+          "srt": "ta/update-hearing.srt",
+          "seconds": 36,
+          "bytes": 1314711
+        }
+      }
+    },
+    {
+      "id": "client-fees",
+      "route": [
+        "/fees",
+        "/clients"
+      ],
+      "group": {
+        "en": "Clients and fees",
+        "ta": "கட்சிக்காரர்கள், கட்டணம்"
+      },
+      "title": {
+        "en": "Record a client's payment",
+        "ta": "கட்சிக்காரரின் கட்டண வரவைப் பதிவு செய்ய"
+      },
+      "summary_steps": {
+        "en": [
+          "Open Clients & fees, then Fees.",
+          "Tap Add payment, then Payment received.",
+          "Pick the case and type the amount.",
+          "Tap Save and share receipt."
+        ],
+        "ta": [
+          "\"கட்சிக்காரர்கள், கட்டணம்\" திறந்து, \"கட்டணம்\" என்பதைத் தொடுங்கள்.",
+          "\"வரவு சேர்\", பிறகு \"பணம் பெறப்பட்டது\" என்பதைத் தொடுங்கள்.",
+          "வழக்கைத் தேர்ந்தெடுத்துத் தொகையைத் தட்டச்சு செய்யுங்கள்.",
+          "\"ரசீதைச் சேமித்துப் பகிர்\" என்பதைத் தொடுங்கள்."
+        ]
+      },
+      "files": {
+        "en": {
+          "mp4": "en/client-fees.mp4",
+          "poster": "en/client-fees.jpg",
+          "srt": "en/client-fees.srt",
+          "seconds": 32,
+          "bytes": 821540
+        },
+        "ta": {
+          "mp4": "ta/client-fees.mp4",
+          "poster": "ta/client-fees.jpg",
+          "srt": "ta/client-fees.srt",
+          "seconds": 31,
+          "bytes": 866307
+        }
+      }
+    },
+    {
+      "id": "drafting-library",
+      "route": [
+        "/more"
+      ],
+      "group": {
+        "en": "Legal tools",
+        "ta": "சட்டக் கருவிகள்"
+      },
+      "title": {
+        "en": "Fill a draft from a case",
+        "ta": "வழக்கிலிருந்து வரைவை நிரப்ப"
+      },
+      "summary_steps": {
+        "en": [
+          "On Home, tap Drafts.",
+          "Search or open a category, then open a draft.",
+          "Tap Fill from case and pick the case.",
+          "Fill the other blanks, then copy or share as PDF."
+        ],
+        "ta": [
+          "முகப்பில் \"வரைவுகள்\" என்பதைத் தொடுங்கள்.",
+          "தேடுங்கள் அல்லது ஒரு வகையைத் திறந்து, வரைவைத் திறங்கள்.",
+          "\"வழக்கிலிருந்து நிரப்பு\" என்பதைத் தொட்டு வழக்கைத் தேர்ந்தெடுங்கள்.",
+          "மற்ற இடங்களை நிரப்பி, நகலெடுங்கள் அல்லது PDF-ஆகப் பகிருங்கள்."
+        ]
+      },
+      "files": {
+        "en": {
+          "mp4": "en/drafting-library.mp4",
+          "poster": "en/drafting-library.jpg",
+          "srt": "en/drafting-library.srt",
+          "seconds": 36,
+          "bytes": 1358114
+        },
+        "ta": {
+          "mp4": "ta/drafting-library.mp4",
+          "poster": "ta/drafting-library.jpg",
+          "srt": "ta/drafting-library.srt",
+          "seconds": 38,
+          "bytes": 1430750
+        }
+      }
+    },
+    {
+      "id": "bare-acts",
+      "route": [
+        "/more"
+      ],
+      "group": {
+        "en": "Legal tools",
+        "ta": "சட்டக் கருவிகள்"
+      },
+      "title": {
+        "en": "Read a section in Bare acts",
+        "ta": "Bare acts-இல் ஒரு பிரிவைப் படிக்க"
+      },
+      "summary_steps": {
+        "en": [
+          "Open All tools and search for Bare acts.",
+          "Open an act, such as BNS.",
+          "Type the section number in Go to.",
+          "Or type a word in Search this act."
+        ],
+        "ta": [
+          "\"எல்லாக் கருவிகளும்\" திறந்து Bare acts என்று தேடுங்கள்.",
+          "BNS போன்ற ஒரு சட்டத்தைத் திறங்கள்.",
+          "\"செல்\" பெட்டியில் பிரிவு எண்ணைத் தட்டச்சு செய்யுங்கள்.",
+          "அல்லது \"இந்தச் சட்டத்தில் தேடு\" பெட்டியில் ஒரு சொல்லைத் தட்டச்சு செய்யுங்கள்."
+        ]
+      },
+      "files": {
+        "en": {
+          "mp4": "en/bare-acts.mp4",
+          "poster": "en/bare-acts.jpg",
+          "srt": "en/bare-acts.srt",
+          "seconds": 45,
+          "bytes": 1381610
+        },
+        "ta": {
+          "mp4": "ta/bare-acts.mp4",
+          "poster": "ta/bare-acts.jpg",
+          "srt": "ta/bare-acts.srt",
+          "seconds": 43,
+          "bytes": 1473153
+        }
+      }
+    },
+    {
+      "id": "court-fee",
+      "route": [
+        "/more"
+      ],
+      "group": {
+        "en": "Legal tools",
+        "ta": "சட்டக் கருவிகள்"
+      },
+      "title": {
+        "en": "Work out court fee and stamp duty",
+        "ta": "நீதிமன்றக் கட்டணம், முத்திரைத் தீர்வை கணக்கிட"
+      },
+      "summary_steps": {
+        "en": [
+          "Open All tools and search for fee.",
+          "In Court fee calculator, pick what you file and type the value.",
+          "In Stamp duty calculator, pick the instrument and type the value.",
+          "Check any rate marked Verify before you rely on it."
+        ],
+        "ta": [
+          "\"எல்லாக் கருவிகளும்\" திறந்து fee என்று தேடுங்கள்.",
+          "நீதிமன்றக் கட்டணக் கணிப்பானில், தாக்கல் செய்வதைத் தேர்ந்தெடுத்து மதிப்பைத் தட்டச்சு செய்யுங்கள்.",
+          "முத்திரைத் தீர்வைக் கணிப்பானில், ஆவண வகையைத் தேர்ந்தெடுத்து மதிப்பைத் தட்டச்சு செய்யுங்கள்.",
+          "\"சரிபார்க்கவும்\" எனக் குறித்த விகிதங்களை நம்பும் முன் சரிபாருங்கள்."
+        ]
+      },
+      "files": {
+        "en": {
+          "mp4": "en/court-fee.mp4",
+          "poster": "en/court-fee.jpg",
+          "srt": "en/court-fee.srt",
+          "seconds": 32,
+          "bytes": 1009164
+        },
+        "ta": {
+          "mp4": "ta/court-fee.mp4",
+          "poster": "ta/court-fee.jpg",
+          "srt": "ta/court-fee.srt",
+          "seconds": 42,
+          "bytes": 1578693
+        }
+      }
+    },
+    {
+      "id": "ai-assistant",
+      "route": [
+        "/more"
+      ],
+      "group": {
+        "en": "Legal tools",
+        "ta": "சட்டக் கருவிகள்"
+      },
+      "title": {
+        "en": "Summarise an order with the AI assistant",
+        "ta": "AI உதவியாளர் மூலம் உத்தரவைச் சுருக்க"
+      },
+      "summary_steps": {
+        "en": [
+          "On Home, tap Assistant.",
+          "Choose Summarise and paste the order.",
+          "Tap Ask AI.",
+          "Check the answer against the order before you use it."
+        ],
+        "ta": [
+          "முகப்பில் \"உதவியாளர்\" என்பதைத் தொடுங்கள்.",
+          "\"சுருக்கம்\" என்பதைத் தேர்ந்தெடுத்து, உத்தரவை ஒட்டுங்கள்.",
+          "\"AI-யிடம் கேள்\" என்பதைத் தொடுங்கள்.",
+          "பயன்படுத்தும் முன், பதிலை உத்தரவுடன் ஒப்பிட்டுச் சரிபாருங்கள்."
+        ]
+      },
+      "files": {
+        "en": {
+          "mp4": "en/ai-assistant.mp4",
+          "poster": "en/ai-assistant.jpg",
+          "srt": "en/ai-assistant.srt",
+          "seconds": 36,
+          "bytes": 1428463
+        },
+        "ta": {
+          "mp4": "ta/ai-assistant.mp4",
+          "poster": "ta/ai-assistant.jpg",
+          "srt": "ta/ai-assistant.srt",
+          "seconds": 36,
+          "bytes": 1506041
+        }
+      }
+    },
+    {
+      "id": "clerk-home",
+      "route": [
+        "/more"
+      ],
+      "group": {
+        "en": "Clerks and juniors",
+        "ta": "குமாஸ்தாக்கள், ஜூனியர்கள்"
+      },
+      "title": {
+        "en": "The clerk's Home and board",
+        "ta": "குமாஸ்தாவின் முகப்பும் போர்டும்"
+      },
+      "summary_steps": {
+        "en": [
+          "Open Board to see cases that need an update, today and tomorrow.",
+          "After court, tap Update after hearing.",
+          "Choose what happened and the next date, then Save.",
+          "Tap the printer to print or send the board."
+        ],
+        "ta": [
+          "புதுப்பிக்க வேண்டியவை, இன்று, நாளை வழக்குகளைப் பார்க்க \"போர்டு\" திறங்கள்.",
+          "நீதிமன்றத்திலிருந்து வந்ததும் \"விசாரணைக்குப் பின் புதுப்பி\" என்பதைத் தொடுங்கள்.",
+          "என்ன நடந்தது, அடுத்த தேதியைத் தேர்ந்தெடுத்துச் சேமியுங்கள்.",
+          "போர்டை அச்சிட அல்லது அனுப்ப, அச்சுப்பொறி பொத்தானைத் தொடுங்கள்."
+        ]
+      },
+      "files": {
+        "en": {
+          "mp4": "en/clerk-home.mp4",
+          "poster": "en/clerk-home.jpg",
+          "srt": "en/clerk-home.srt",
+          "seconds": 41,
+          "bytes": 1178564
+        },
+        "ta": {
+          "mp4": "ta/clerk-home.mp4",
+          "poster": "ta/clerk-home.jpg",
+          "srt": "ta/clerk-home.srt",
+          "seconds": 43,
+          "bytes": 1326178
+        }
+      }
+    },
+    {
+      "id": "student-home",
+      "route": [
+        "/more"
+      ],
+      "group": {
+        "en": "Law students",
+        "ta": "சட்ட மாணவர்கள்"
+      },
+      "title": {
+        "en": "The law student's Home",
+        "ta": "சட்ட மாணவர் முகப்பு"
+      },
+      "summary_steps": {
+        "en": [
+          "Tap Start today's practice for ten questions a day.",
+          "Pick an answer to see if you are right.",
+          "Use Bare acts, the tutor and notes from Study tools.",
+          "Open Learn for mock tests and weak areas."
+        ],
+        "ta": [
+          "நாளுக்குப் பத்து கேள்விகளுக்கு \"இன்றைய பயிற்சியைத் தொடங்கு\" என்பதைத் தொடுங்கள்.",
+          "ஒரு பதிலைத் தேர்ந்தெடுங்கள். சரியா என்று உடனே தெரியும்.",
+          "Bare acts, ஆசிரியர், குறிப்புகளைப் படிப்புக் கருவிகளில் பயன்படுத்துங்கள்.",
+          "மாதிரித் தேர்வுக்கும் தவறும் பகுதிகளுக்கும் \"கற்றல்\" திறங்கள்."
+        ]
+      },
+      "files": {
+        "en": {
+          "mp4": "en/student-home.mp4",
+          "poster": "en/student-home.jpg",
+          "srt": "en/student-home.srt",
+          "seconds": 28,
+          "bytes": 860267
+        },
+        "ta": {
+          "mp4": "ta/student-home.mp4",
+          "poster": "ta/student-home.jpg",
+          "srt": "ta/student-home.srt",
+          "seconds": 30,
+          "bytes": 961174
+        }
+      }
+    },
+    {
+      "id": "backup",
+      "route": [
+        "/more"
+      ],
+      "group": {
+        "en": "Settings and backup",
+        "ta": "அமைப்புகள், காப்புப் பிரதி"
+      },
+      "title": {
+        "en": "Back up and restore your diary",
+        "ta": "டைரியைக் காப்புப் பிரதி எடுக்க, மீட்டெடுக்க"
+      },
+      "summary_steps": {
+        "en": [
+          "Open More, then Settings, and go to Backup.",
+          "Tap Save a backup file and choose a password.",
+          "Keep the file on Drive, in email or on a pen drive.",
+          "On a new phone, tap Restore from a backup file."
+        ],
+        "ta": [
+          "\"மேலும்\", பிறகு \"அமைப்புகள்\" திறந்து காப்புப் பிரதி பகுதிக்குச் செல்லுங்கள்.",
+          "\"காப்புப் பிரதி கோப்பைச் சேமி\" என்பதைத் தொட்டு, கடவுச்சொல்லைத் தேர்ந்தெடுங்கள்.",
+          "கோப்பை Drive, மின்னஞ்சல் அல்லது பென் டிரைவில் வைத்திருங்கள்.",
+          "புதிய போனில் \"காப்புப் பிரதி கோப்பிலிருந்து மீட்டெடு\" என்பதைத் தொடுங்கள்."
+        ]
+      },
+      "files": {
+        "en": {
+          "mp4": "en/backup.mp4",
+          "poster": "en/backup.jpg",
+          "srt": "en/backup.srt",
+          "seconds": 44,
+          "bytes": 1604719
+        },
+        "ta": {
+          "mp4": "ta/backup.mp4",
+          "poster": "ta/backup.jpg",
+          "srt": "ta/backup.srt",
+          "seconds": 42,
+          "bytes": 1731315
+        }
+      }
+    },
+    {
+      "id": "theme",
+      "route": [
+        "/more"
+      ],
+      "group": {
+        "en": "Settings and backup",
+        "ta": "அமைப்புகள், காப்புப் பிரதி"
+      },
+      "title": {
+        "en": "Change the colour theme",
+        "ta": "வண்ணத் தீமை மாற்ற"
+      },
+      "summary_steps": {
+        "en": [
+          "Open More, then Settings.",
+          "Tap Theme.",
+          "Tap a theme. The app changes at once.",
+          "Gold is the default."
+        ],
+        "ta": [
+          "\"மேலும்\", பிறகு \"அமைப்புகள்\" திறங்கள்.",
+          "\"தீம்\" என்பதைத் தொடுங்கள்.",
+          "ஒரு தீமைத் தொடுங்கள். ஆப் உடனே மாறும்.",
+          "தங்கம் இயல்பான தீம்."
+        ]
+      },
+      "files": {
+        "en": {
+          "mp4": "en/theme.mp4",
+          "poster": "en/theme.jpg",
+          "srt": "en/theme.srt",
+          "seconds": 33,
+          "bytes": 981712
+        },
+        "ta": {
+          "mp4": "ta/theme.mp4",
+          "poster": "ta/theme.jpg",
+          "srt": "ta/theme.srt",
+          "seconds": 31,
+          "bytes": 1019330
+        }
+      }
+    }
+  ]
+}
