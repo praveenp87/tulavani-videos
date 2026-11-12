@@ -1,0 +1,19 @@
+1
+00:00:00,000 --> 00:00:03,511
+Tap Assistant on the Home screen.
+
+2
+00:00:03,561 --> 00:00:08,278
+Choose Summarise and paste the order.
+
+3
+00:00:08,328 --> 00:00:11,983
+Tap Ask AI.
+
+4
+00:00:12,033 --> 00:00:28,290
+You get the parties, what was decided and the dates to act on.
+
+5
+00:00:28,340 --> 00:00:36,283
+Always check the answer against the order before you use it.

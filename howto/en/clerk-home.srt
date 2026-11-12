@@ -1,0 +1,19 @@
+1
+00:00:00,000 --> 00:00:06,629
+The clerk's Home: board, dates to update, cause list, print and tasks.
+
+2
+00:00:06,679 --> 00:00:17,758
+Board shows what needs an update, then today and tomorrow.
+
+3
+00:00:17,808 --> 00:00:20,715
+After court, tap Update after hearing.
+
+4
+00:00:20,765 --> 00:00:32,947
+Choose what happened and the next date, then Save.
+
+5
+00:00:32,997 --> 00:00:40,597
+Print the board, or send it on WhatsApp. Phone numbers are left out.

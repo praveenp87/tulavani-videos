@@ -1,0 +1,23 @@
+1
+00:00:00,000 --> 00:00:03,527
+Tap Add case on the Home screen.
+
+2
+00:00:03,577 --> 00:00:08,766
+Have the CNR? Type it here. Or scan the QR code on an order.
+
+3
+00:00:08,816 --> 00:00:17,644
+Tap Fetch, then type the eCourts captcha.
+
+4
+00:00:17,694 --> 00:00:27,832
+The court, parties and next date fill in by themselves.
+
+5
+00:00:27,882 --> 00:00:32,097
+Check the details and tap Save case.
+
+6
+00:00:32,147 --> 00:00:36,783
+The case is in your diary, with its next date.

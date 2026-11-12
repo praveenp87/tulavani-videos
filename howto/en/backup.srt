@@ -1,0 +1,23 @@
+1
+00:00:00,000 --> 00:00:05,189
+Open More, then Settings.
+
+2
+00:00:05,239 --> 00:00:14,820
+Under Backup, automatic backup keeps a sealed copy with your phone's backup.
+
+3
+00:00:14,870 --> 00:00:21,481
+For everything, with documents, tap Save a backup file.
+
+4
+00:00:21,531 --> 00:00:34,620
+Choose a password. You need it to restore.
+
+5
+00:00:34,670 --> 00:00:39,077
+Keep the file on Drive, in email or on a pen drive.
+
+6
+00:00:39,127 --> 00:00:43,565
+On a new phone, tap Restore from a backup file.

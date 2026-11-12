@@ -1,0 +1,19 @@
+1
+00:00:00,000 --> 00:00:05,072
+The Board shows your hearings, day by day.
+
+2
+00:00:05,122 --> 00:00:07,743
+Tap tomorrow to get ready for it.
+
+3
+00:00:07,793 --> 00:00:16,314
+Hearings are grouped by court, with hall and item number.
+
+4
+00:00:16,364 --> 00:00:25,872
+A date or court hall that changed on eCourts is marked.
+
+5
+00:00:25,922 --> 00:00:36,034
+Share tomorrow's board with your junior, or print it.
