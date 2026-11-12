@@ -1,0 +1,19 @@
+1
+00:00:00,000 --> 00:00:05,664
+Open More, then Settings.
+
+2
+00:00:05,714 --> 00:00:08,349
+Tap Theme.
+
+3
+00:00:08,399 --> 00:00:20,399
+Tap a theme. The whole app changes at once.
+
+4
+00:00:20,449 --> 00:00:25,928
+Light or dark: pick what is easy on your eyes.
+
+5
+00:00:25,978 --> 00:00:33,181
+Gold is the default. Change it back any time.

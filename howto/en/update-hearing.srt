@@ -1,0 +1,19 @@
+1
+00:00:00,000 --> 00:00:03,118
+After court, open the Board.
+
+2
+00:00:03,168 --> 00:00:12,552
+A case whose date has passed waits for an update.
+
+3
+00:00:12,602 --> 00:00:16,719
+Choose what happened, and who asked for time.
+
+4
+00:00:16,769 --> 00:00:26,421
+Pick the next date. +14 days is one tap.
+
+5
+00:00:26,471 --> 00:00:33,447
+Tap Save. The case moves to its new date.
