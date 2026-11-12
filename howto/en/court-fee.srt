@@ -1,0 +1,19 @@
+1
+00:00:00,000 --> 00:00:08,359
+Open All tools and search for court fee.
+
+2
+00:00:08,409 --> 00:00:12,537
+Pick what you are filing and type the suit value.
+
+3
+00:00:12,587 --> 00:00:18,761
+The fee shows with its source in the Tamil Nadu table.
+
+4
+00:00:18,811 --> 00:00:24,419
+For a sale deed, open Stamp duty calculator.
+
+5
+00:00:24,469 --> 00:00:31,641
+Stamp duty and registration fee show together. Check rates marked Verify.

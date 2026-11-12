@@ -1,0 +1,23 @@
+1
+00:00:00,000 --> 00:00:03,527
+Tap Drafts on the Home screen.
+
+2
+00:00:03,577 --> 00:00:08,668
+Browse by category, or search.
+
+3
+00:00:08,718 --> 00:00:11,675
+Open a draft.
+
+4
+00:00:11,725 --> 00:00:16,275
+Fill from case puts in the case number, court and parties.
+
+5
+00:00:16,325 --> 00:00:29,980
+Fill the other blanks. The preview updates as you type.
+
+6
+00:00:30,030 --> 00:00:35,737
+Copy it, or share it as a PDF. Check the law and facts before filing.

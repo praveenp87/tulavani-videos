@@ -1,0 +1,19 @@
+1
+00:00:00,000 --> 00:00:05,683
+Open Clients & fees, then Fees.
+
+2
+00:00:05,733 --> 00:00:11,127
+See what each client still owes.
+
+3
+00:00:11,177 --> 00:00:15,357
+To record a payment, tap Add payment.
+
+4
+00:00:15,407 --> 00:00:24,378
+Pick the case and type the amount.
+
+5
+00:00:24,428 --> 00:00:31,583
+Save and share the receipt as a PDF.
